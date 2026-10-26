@@ -1,21 +1,3 @@
-# About Me!
+hello
 
-- 👋 Hi, I’m @SpaceNiklas
-- 💡 I’m interested in Video Editing, Programming (Java, Swift, Kotlin) and Rockets
-- 💼 You can check out my website under https://spaceniklas.com
-- 📚 I’m currently learning AI, VFX
-- 🤝 I’m looking to collaborate on a Minecraft Server or a YouTube Video!
-- ✉️ You can reach me on Discord under `spaceniklas`
-
-## Tools
-- 🕸️ HTML
-- 💄 CSS
-- ⚙️ JS
-- 🎬 Final Cut Pro
-- 📸 Photoshop
-- 📼 After Effects
-- 😉 GitHub
-- :fire: Houdini
-
-
-A more detailed list can be found here: https://spaceniklas.com/#anchor4
+i like movies, vfx and music
